@@ -1,0 +1,11 @@
+{
+  "carousel": {
+    "before": 32,
+    "after": 343.3330078125
+  },
+  "signup": {
+    "rejects": "Vui lòng xác nhận đồng ý nhận thông tin từ HACOM",
+    "accepts": "Đăng ký thành công · Demo"
+  },
+  "errors": []
+}

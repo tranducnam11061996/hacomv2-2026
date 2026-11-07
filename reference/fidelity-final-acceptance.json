@@ -1,0 +1,173 @@
+{
+  "sections": [
+    {
+      "n": 1,
+      "layout": "mobile",
+      "blocks": 22,
+      "overflow": 0,
+      "w": 390
+    },
+    {
+      "n": 2,
+      "layout": "mobile",
+      "blocks": 17,
+      "overflow": 0,
+      "w": 390
+    },
+    {
+      "n": 3,
+      "layout": "mobile",
+      "blocks": 9,
+      "overflow": 0,
+      "w": 390
+    },
+    {
+      "n": 4,
+      "layout": "mobile",
+      "blocks": 8,
+      "overflow": 0,
+      "w": 390
+    },
+    {
+      "n": 5,
+      "layout": "mobile",
+      "blocks": 19,
+      "overflow": 0,
+      "w": 390
+    },
+    {
+      "n": 6,
+      "layout": "mobile",
+      "blocks": 21,
+      "overflow": 0,
+      "w": 390
+    },
+    {
+      "n": 7,
+      "layout": "mobile",
+      "blocks": 1,
+      "overflow": 0,
+      "w": 390
+    },
+    {
+      "n": 8,
+      "layout": "mobile",
+      "blocks": 19,
+      "overflow": 0,
+      "w": 390
+    },
+    {
+      "n": 9,
+      "layout": "mobile",
+      "blocks": 11,
+      "overflow": 0,
+      "w": 390
+    },
+    {
+      "n": 10,
+      "layout": "mobile",
+      "blocks": 9,
+      "overflow": 0,
+      "w": 390
+    },
+    {
+      "n": 11,
+      "layout": "mobile",
+      "blocks": 10,
+      "overflow": 0,
+      "w": 390
+    },
+    {
+      "n": 12,
+      "layout": "mobile",
+      "blocks": 10,
+      "overflow": 0,
+      "w": 390
+    },
+    {
+      "n": 13,
+      "layout": "mobile",
+      "blocks": 9,
+      "overflow": 0,
+      "w": 390
+    },
+    {
+      "n": 14,
+      "layout": "mobile",
+      "blocks": 1,
+      "overflow": 0,
+      "w": 390
+    },
+    {
+      "n": 15,
+      "layout": "mobile",
+      "blocks": 63,
+      "overflow": 0,
+      "w": 390
+    },
+    {
+      "n": 16,
+      "layout": "mobile",
+      "blocks": 2,
+      "overflow": 0,
+      "w": 390
+    },
+    {
+      "n": 17,
+      "layout": "mobile",
+      "blocks": 9,
+      "overflow": 0,
+      "w": 390
+    },
+    {
+      "n": 18,
+      "layout": "mobile",
+      "blocks": 20,
+      "overflow": 0,
+      "w": 390
+    },
+    {
+      "n": 19,
+      "layout": "mobile",
+      "blocks": 7,
+      "overflow": 0,
+      "w": 390
+    },
+    {
+      "n": 20,
+      "layout": "mobile",
+      "blocks": 14,
+      "overflow": 0,
+      "w": 390
+    },
+    {
+      "n": 21,
+      "layout": "mobile",
+      "blocks": 5,
+      "overflow": 0,
+      "w": 390
+    },
+    {
+      "n": 22,
+      "layout": "mobile",
+      "blocks": 5,
+      "overflow": 0,
+      "w": 390
+    }
+  ],
+  "mobile": {
+    "invalid": true,
+    "feedback": "Đăng ký thành công · Demo",
+    "menuLinks": 21
+  },
+  "header": {
+    "feedback": "Tư vấn cấu hình · Demo",
+    "blur": "blur(9px)",
+    "w": 1920,
+    "h": 20142
+  },
+  "video": {
+    "moved": true
+  },
+  "errors": []
+}

@@ -1,0 +1,396 @@
+{
+  "1": {
+    "type": "hacom-measure",
+    "section": 1,
+    "box": [
+      0,
+      0,
+      1920,
+      221
+    ],
+    "fonts": [
+      "Inter",
+      "Inter",
+      "Inter"
+    ]
+  },
+  "2": {
+    "type": "hacom-measure",
+    "section": 2,
+    "box": [
+      32,
+      1079,
+      1855.5,
+      572.5
+    ],
+    "fonts": [
+      "Inter",
+      "Inter",
+      "Inter",
+      "Goldman",
+      "Goldman",
+      "Roboto Condensed",
+      "Roboto Condensed",
+      "Roboto Condensed"
+    ]
+  },
+  "3": {
+    "type": "hacom-measure",
+    "section": 3,
+    "box": [
+      7.5,
+      1757,
+      1905,
+      732.68017578125
+    ],
+    "fonts": [
+      "Inter",
+      "Inter",
+      "Inter",
+      "Goldman",
+      "Goldman"
+    ]
+  },
+  "4": {
+    "type": "hacom-measure",
+    "section": 4,
+    "box": [
+      32,
+      2555,
+      1856,
+      647.300048828125
+    ],
+    "fonts": [
+      "Inter",
+      "Inter",
+      "Inter",
+      "Goldman",
+      "Goldman",
+      "Goldman"
+    ]
+  },
+  "5": {
+    "type": "hacom-measure",
+    "section": 5,
+    "box": [
+      7.611860275268555,
+      3306,
+      1904.7781982421875,
+      977
+    ],
+    "fonts": [
+      "Inter",
+      "Inter",
+      "Inter",
+      "Goldman",
+      "Goldman",
+      "Goldman"
+    ]
+  },
+  "6": {
+    "type": "hacom-measure",
+    "section": 6,
+    "box": [
+      7.616889953613281,
+      4398,
+      1904.7630615234375,
+      960.51025390625
+    ],
+    "fonts": [
+      "Inter",
+      "Inter",
+      "Inter",
+      "Goldman",
+      "Manrope",
+      "Manrope",
+      "Manrope"
+    ]
+  },
+  "7": {
+    "type": "hacom-measure",
+    "section": 7,
+    "box": [
+      0,
+      5474,
+      1920,
+      640
+    ],
+    "fonts": [
+      "Inter",
+      "Inter",
+      "Inter",
+      "Goldman",
+      "Goldman"
+    ]
+  },
+  "8": {
+    "type": "hacom-measure",
+    "section": 8,
+    "box": [
+      7.680749893188477,
+      6143,
+      1904.63916015625,
+      1131.18994140625
+    ],
+    "fonts": [
+      "Inter",
+      "Inter",
+      "Inter",
+      "Goldman"
+    ]
+  },
+  "9": {
+    "type": "hacom-measure",
+    "section": 9,
+    "box": [
+      32,
+      7379,
+      1858,
+      761
+    ],
+    "fonts": [
+      "Inter",
+      "Inter",
+      "Inter",
+      "Goldman",
+      "Goldman",
+      "Manrope",
+      "Manrope",
+      "Manrope"
+    ]
+  },
+  "10": {
+    "type": "hacom-measure",
+    "section": 10,
+    "box": [
+      31.99989891052246,
+      8239,
+      1858.64013671875,
+      815.58984375
+    ],
+    "fonts": [
+      "Inter",
+      "Inter",
+      "Inter",
+      "Goldman",
+      "Goldman"
+    ]
+  },
+  "11": {
+    "type": "hacom-measure",
+    "section": 11,
+    "box": [
+      26.762298583984375,
+      9126.5205078125,
+      1861.2376708984375,
+      876.4794921875
+    ],
+    "fonts": [
+      "Inter",
+      "Inter",
+      "Inter",
+      "Goldman",
+      "Goldman"
+    ]
+  },
+  "12": {
+    "type": "hacom-measure",
+    "section": 12,
+    "box": [
+      -1198,
+      9761.0498046875,
+      3109.340087890625,
+      1287
+    ],
+    "fonts": [
+      "Inter",
+      "Inter",
+      "Inter",
+      "Goldman",
+      "Goldman",
+      "Goldman"
+    ]
+  },
+  "13": {
+    "type": "hacom-measure",
+    "section": 13,
+    "box": [
+      0,
+      10840,
+      1922,
+      883.099609375
+    ],
+    "fonts": [
+      "Inter",
+      "Inter",
+      "Inter",
+      "Goldman",
+      "Goldman",
+      "Goldman"
+    ]
+  },
+  "14": {
+    "type": "hacom-measure",
+    "section": 14,
+    "box": [
+      0,
+      11892,
+      1920,
+      955
+    ],
+    "fonts": []
+  },
+  "15": {
+    "type": "hacom-measure",
+    "section": 15,
+    "box": [
+      -38,
+      12937,
+      1958,
+      758.5
+    ],
+    "fonts": [
+      "Inter",
+      "Inter",
+      "Inter",
+      "Goldman",
+      "Goldman",
+      "Roboto",
+      "Roboto",
+      "Roboto"
+    ]
+  },
+  "16": {
+    "type": "hacom-measure",
+    "section": 16,
+    "box": [
+      0,
+      13797.5,
+      1920,
+      749.5
+    ],
+    "fonts": [
+      "Inter",
+      "Inter",
+      "Inter",
+      "Goldman",
+      "Goldman",
+      "Goldman",
+      "Goldman",
+      "Goldman"
+    ]
+  },
+  "17": {
+    "type": "hacom-measure",
+    "section": 17,
+    "box": [
+      32,
+      14638,
+      1856,
+      732
+    ],
+    "fonts": [
+      "Inter",
+      "Inter",
+      "Inter",
+      "Goldman",
+      "Goldman",
+      "Goldman"
+    ]
+  },
+  "18": {
+    "type": "hacom-measure",
+    "section": 18,
+    "box": [
+      0,
+      15469,
+      1920,
+      853
+    ],
+    "fonts": [
+      "Inter",
+      "Inter",
+      "Inter",
+      "Goldman",
+      "Goldman",
+      "Manrope",
+      "Manrope",
+      "Manrope"
+    ]
+  },
+  "19": {
+    "type": "hacom-measure",
+    "section": 19,
+    "box": [
+      7.5,
+      16394.80078125,
+      1905,
+      614.099609375
+    ],
+    "fonts": [
+      "Inter",
+      "Inter",
+      "Inter",
+      "Goldman",
+      "Goldman"
+    ]
+  },
+  "20": {
+    "type": "hacom-measure",
+    "section": 20,
+    "box": [
+      -58,
+      17119,
+      3444.5107421875,
+      816.400390625
+    ],
+    "fonts": [
+      "Inter",
+      "Inter",
+      "Inter",
+      "Goldman",
+      "Goldman",
+      "Goldman",
+      "Manrope",
+      "Manrope",
+      "Manrope"
+    ]
+  },
+  "21": {
+    "type": "hacom-measure",
+    "section": 21,
+    "box": [
+      22.75010108947754,
+      18008.5,
+      1866.7198486328125,
+      671.5
+    ],
+    "fonts": [
+      "Inter",
+      "Inter",
+      "Inter",
+      "Goldman",
+      "Goldman",
+      "Goldman"
+    ]
+  },
+  "22": {
+    "type": "hacom-measure",
+    "section": 22,
+    "box": [
+      0,
+      18768.5,
+      1920,
+      1348.400390625
+    ],
+    "fonts": [
+      "Inter",
+      "Goldman",
+      "Goldman",
+      "Goldman",
+      "Roboto Slab",
+      "Roboto Slab",
+      "Roboto Slab"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="1119.1700439453125 12953.7001953125 137.5570068359375 91.8837890625" fill="none" width="138" height="92"><defs><filter id="s15-filter356_dd_43_3" x="1103.17" y="12943.7" width="169.557" height="123.884" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix" />
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+<feOffset dy="6" />
+<feGaussianBlur stdDeviation="8" />
+<feColorMatrix type="matrix" values="0 0 0 0 0.078 0 0 0 0 0.118 0 0 0 0 0.235 0 0 0 0.1 0" />
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_43_3" />
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+<feOffset dy="6" />
+<feGaussianBlur stdDeviation="8" />
+<feColorMatrix type="matrix" values="0 0 0 0 0.078 0 0 0 0 0.118 0 0 0 0 0.235 0 0 0 0.1 0" />
+<feBlend mode="normal" in2="effect1_dropShadow_43_3" result="effect2_dropShadow_43_3" />
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_43_3" result="shape" />
+</filter>
+</defs><g transform="matrix(1 0 0 1 0 0)"><g filter="url(#s15-filter356_dd_43_3)">
+<rect x="1119.17" y="12953.7" width="137.557" height="91.8839" rx="6.96493" fill="white" />
+<g>
+<path d="M1187.95 12969.2V12971.2M1187.95 12971.2V12973.2M1187.95 12971.2H1189.91M1187.95 12971.2H1185.99M1189.91 12983V12980C1189.91 12979.5 1189.7 12979 1189.33 12978.6C1188.97 12978.3 1188.47 12978.1 1187.95 12978.1C1187.43 12978.1 1186.93 12978.3 1186.56 12978.6C1186.2 12979 1185.99 12979.5 1185.99 12980V12983M1189.91 12983H1193.83M1189.91 12983H1185.99M1185.99 12983H1182.07M1193.83 12973.2H1195.78C1196.3 12973.2 1196.8 12973.4 1197.17 12973.7C1197.54 12974.1 1197.74 12974.6 1197.74 12975.1V12981C1197.74 12981.5 1197.54 12982 1197.17 12982.4C1196.8 12982.7 1196.3 12983 1195.78 12983H1193.83M1193.83 12973.2V12983M1193.83 12973.2V12967.3C1193.83 12966.8 1193.62 12966.3 1193.25 12965.9C1192.88 12965.5 1192.39 12965.3 1191.87 12965.3H1184.03C1183.51 12965.3 1183.01 12965.5 1182.65 12965.9C1182.28 12966.3 1182.07 12966.8 1182.07 12967.3V12970.2M1182.07 12983H1180.11C1179.59 12983 1179.09 12982.7 1178.73 12982.4C1178.36 12982 1178.15 12981.5 1178.15 12981V12972.2C1178.15 12971.7 1178.36 12971.2 1178.73 12970.8C1179.09 12970.4 1179.59 12970.2 1180.11 12970.2H1182.07M1182.07 12983V12970.2" stroke-width="1.74123" stroke-linecap="round" stroke="#FF0026" />
+</g>
+
+</g></g></svg>

@@ -1,0 +1,15 @@
+html{scrollbar-width:none}
+html::-webkit-scrollbar{display:none}
+body{margin:0}
+.design-page{width:min(100%,1920px);margin-inline:auto}
+.design-page section{min-width:0;position:relative;overflow:clip;aspect-ratio:1920 / var(--section-height)}
+#demo-status{position:fixed;right:16px;bottom:16px;z-index:20;max-width:calc(100vw - 32px);padding:12px 18px;border-radius:8px;background:#0e1018;color:white;font:14px/1.4 system-ui,sans-serif}
+@media(max-width:1023px){
+  .design-page section{aspect-ratio:auto}
+  .design-page section:not([data-loaded]){min-height:480px}
+  .design-page section+section{margin-top:24px}
+}
+@media(max-width:1023px){
+  .design-page section:not(.mobile) .section-art{opacity:0}
+  .design-page section:not(.mobile){min-height:480px}
+}

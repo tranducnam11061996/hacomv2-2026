@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="1265.429931640625 12953.7001953125 136.68701171875 91.8837890625" fill="none" width="137" height="92"><defs><filter id="s15-filter357_dd_43_3" x="1249.43" y="12943.7" width="168.687" height="123.884" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix" />
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+<feOffset dy="6" />
+<feGaussianBlur stdDeviation="8" />
+<feColorMatrix type="matrix" values="0 0 0 0 0.078 0 0 0 0 0.118 0 0 0 0 0.235 0 0 0 0.1 0" />
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_43_3" />
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+<feOffset dy="6" />
+<feGaussianBlur stdDeviation="8" />
+<feColorMatrix type="matrix" values="0 0 0 0 0.078 0 0 0 0 0.118 0 0 0 0 0.235 0 0 0 0.1 0" />
+<feBlend mode="normal" in2="effect1_dropShadow_43_3" result="effect2_dropShadow_43_3" />
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_43_3" result="shape" />
+</filter>
+</defs><g transform="matrix(1 0 0 1 0 0)"><g filter="url(#s15-filter357_dd_43_3)">
+<rect x="1265.43" y="12953.7" width="136.687" height="91.8839" rx="6.96493" fill="white" />
+<g>
+<path d="M1331.82 12980V12973.2M1335.74 12980V12973.2M1339.65 12980V12973.2M1324.96 12983.9H1342.59M1327.9 12980V12973.2M1332.91 12964.5C1333.18 12964.4 1333.48 12964.3 1333.78 12964.3C1334.08 12964.3 1334.37 12964.4 1334.64 12964.5L1342.34 12968.3C1342.81 12968.5 1342.65 12969.2 1342.13 12969.2H1325.43C1324.91 12969.2 1324.75 12968.5 1325.21 12968.3L1332.91 12964.5Z" stroke-width="1.74123" stroke-linecap="round" stroke="#FF0026" />
+</g>
+
+</g></g></svg>

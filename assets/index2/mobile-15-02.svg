@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="827.5130004882812 12953.7001953125 137.5570068359375 91.8837890625" fill="none" width="138" height="92"><defs><filter id="s15-filter354_dd_43_3" x="811.513" y="12943.7" width="169.557" height="123.884" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix" />
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+<feOffset dy="6" />
+<feGaussianBlur stdDeviation="8" />
+<feColorMatrix type="matrix" values="0 0 0 0 0.078 0 0 0 0 0.118 0 0 0 0 0.235 0 0 0 0.1 0" />
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_43_3" />
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+<feOffset dy="6" />
+<feGaussianBlur stdDeviation="8" />
+<feColorMatrix type="matrix" values="0 0 0 0 0.078 0 0 0 0 0.118 0 0 0 0 0.235 0 0 0 0.1 0" />
+<feBlend mode="normal" in2="effect1_dropShadow_43_3" result="effect2_dropShadow_43_3" />
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_43_3" result="shape" />
+</filter>
+</defs><g transform="matrix(1 0 0 1 0 0)"><g filter="url(#s15-filter354_dd_43_3)">
+<rect x="827.513" y="12953.7" width="137.557" height="91.8839" rx="6.96493" fill="white" />
+<g>
+<path d="M894.333 12974.1H898.251M894.333 12970.2H898.251M898.251 12983V12980C898.251 12979.5 898.044 12979 897.677 12978.6C897.31 12978.3 896.811 12978.1 896.292 12978.1C895.772 12978.1 895.274 12978.3 894.906 12978.6C894.539 12979 894.333 12979.5 894.333 12980V12983M898.251 12983H894.333M898.251 12983H902.169M894.333 12983H890.415M890.415 12972.2H888.456C887.936 12972.2 887.438 12972.4 887.07 12972.8C886.703 12973.1 886.497 12973.6 886.497 12974.1V12981C886.497 12981.5 886.703 12982 887.07 12982.4C887.438 12982.7 887.936 12983 888.456 12983H890.415M890.415 12972.2V12983M890.415 12972.2V12967.3C890.415 12966.8 890.621 12966.3 890.988 12965.9C891.356 12965.5 891.854 12965.3 892.374 12965.3H900.21C900.729 12965.3 901.228 12965.5 901.595 12965.9C901.962 12966.3 902.169 12966.8 902.169 12967.3V12969.2M902.169 12983H904.128C904.647 12983 905.146 12982.7 905.513 12982.4C905.881 12982 906.087 12981.5 906.087 12981V12971.2C906.087 12970.7 905.881 12970.2 905.513 12969.8C905.146 12969.4 904.647 12969.2 904.128 12969.2H902.169M902.169 12983V12969.2" stroke-width="1.74123" stroke-linecap="round" stroke="#FF0026" />
+</g>
+
+</g></g></svg>

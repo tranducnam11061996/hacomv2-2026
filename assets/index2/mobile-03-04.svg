@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="573.8099975585938 2402.949951171875 234.47698974609375 65.052490234375" fill="none" width="235" height="66"><defs><filter id="s3-filter89_d_43_3" x="564.052" y="2397.53" width="253.993" height="84.5685" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix" />
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+<feOffset dy="4.33684" />
+<feGaussianBlur stdDeviation="4.87895" />
+<feColorMatrix type="matrix" values="0 0 0 0 0.078 0 0 0 0 0.118 0 0 0 0 0.235 0 0 0 0.09 0" />
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_43_3" />
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_43_3" result="shape" />
+</filter>
+</defs><g transform="matrix(1 0 0 1 0 0)"><g filter="url(#s3-filter89_d_43_3)">
+<rect x="573.81" y="2402.95" width="234.477" height="65.0526" rx="17.3474" fill="white" />
+<g>
+<path d="M607.64 2415.96H627.751V2452.76H607.64V2415.96ZM607.64 2415.96L600.23 2421.71V2453.91H624.575M610.815 2421.71H624.575M611.874 2426.31H613.99M619.283 2426.31H621.4M611.874 2430.91H613.99M619.283 2430.91H621.4M612.932 2441.26V2445.86M619.283 2441.26V2445.86" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke="#FF0035" />
+<path d="M609.037 2424.63H625.549V2450.65H609.037V2424.63Z" fill-rule="evenodd" clip-rule="evenodd" fill="#FF0035" />
+<path d="M617.843 2426.8C611.972 2426.8 611.972 2435.47 617.843 2435.47C623.714 2435.47 623.714 2426.8 617.843 2426.8ZM617.843 2439.81C611.972 2439.81 611.972 2448.48 617.843 2448.48C623.714 2448.48 623.714 2439.81 617.843 2439.81Z" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" stroke="white" />
+</g>
+
+
+<path d="M785.17 2431.14L789.573 2435.47L785.17 2439.81" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" stroke="#202E46" />
+</g></g></svg>

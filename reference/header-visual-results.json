@@ -1,0 +1,62 @@
+[
+  {
+    "width": 360,
+    "headerHeight": 1398,
+    "meanAbsoluteError255": 3.721706273512425,
+    "changedLuminanceOver16Percent": 4.86786679383246
+  },
+  {
+    "width": 390,
+    "headerHeight": 1424,
+    "meanAbsoluteError255": 3.980968500912321,
+    "changedLuminanceOver16Percent": 5.2194972630365895
+  },
+  {
+    "width": 768,
+    "headerHeight": 2073,
+    "meanAbsoluteError255": 3.579219177118508,
+    "changedLuminanceOver16Percent": 4.668216855603795
+  },
+  {
+    "width": 1023,
+    "headerHeight": 556,
+    "meanAbsoluteError255": 3.965987913481531,
+    "changedLuminanceOver16Percent": 5.431725001230687
+  },
+  {
+    "width": 1024,
+    "headerHeight": 556,
+    "meanAbsoluteError255": 3.8451732754421464,
+    "changedLuminanceOver16Percent": 5.325427158273381
+  },
+  {
+    "width": 1280,
+    "headerHeight": 695,
+    "meanAbsoluteError255": 3.7544911570743404,
+    "changedLuminanceOver16Percent": 4.594874100719425
+  },
+  {
+    "width": 1440,
+    "headerHeight": 782,
+    "meanAbsoluteError255": 3.7505639030974707,
+    "changedLuminanceOver16Percent": 4.6556194941744815
+  },
+  {
+    "width": 1920,
+    "headerHeight": 1043,
+    "meanAbsoluteError255": 3.56448862123149,
+    "changedLuminanceOver16Percent": 4.207614253755193
+  },
+  {
+    "width": 2560,
+    "headerHeight": 1043,
+    "meanAbsoluteError255": 2.669416147331416,
+    "changedLuminanceOver16Percent": 3.1557855944391178
+  },
+  {
+    "width": 3440,
+    "headerHeight": 1043,
+    "meanAbsoluteError255": 1.9865421562725294,
+    "changedLuminanceOver16Percent": 2.3484916051639946
+  }
+]

@@ -1,0 +1,337 @@
+{
+  "static": {
+    "htmlParseErrors": [],
+    "headingCounts": {
+      "h1": 1,
+      "h2": 24,
+      "h3": 48
+    },
+    "headings": [
+      {
+        "tag": "h1",
+        "text": "HACOM.VN - Hệ thống bán lẻ thiết bị công nghệ hàng đầu Việt Nam"
+      },
+      {
+        "tag": "h2",
+        "text": "NGÀNH HÀNG NỔI BẬT"
+      },
+      {
+        "tag": "h2",
+        "text": "FLASH SALE"
+      },
+      {
+        "tag": "h3",
+        "text": "Laptop Asus Gaming ROG Strix G16 G614PR-RV034W (i9-14900HX/16GB/1TB/ RTX 4070/16” 2.5K)"
+      },
+      {
+        "tag": "h3",
+        "text": "PC Gaming Intel i7-14700K | RTX 4070 16GB | 32GB RAM | 1TB SSD"
+      },
+      {
+        "tag": "h3",
+        "text": "Card đồ họa ASUS Dual GeForce RTX 4060 OC 8GB GDDR6"
+      },
+      {
+        "tag": "h3",
+        "text": "Màn hình ASUS ROG Swift OLED PG27AQDM 27” QHD 240Hz"
+      },
+      {
+        "tag": "h3",
+        "text": "Tai nghe HyperX Cloud III Wireless (Black)"
+      },
+      {
+        "tag": "h3",
+        "text": "Camera IP TP-Link Tapo C200 Full HD 1080P"
+      },
+      {
+        "tag": "h2",
+        "text": "CHỌN ĐÚNG MÁY - THEO ĐÚNG NGHỀ"
+      },
+      {
+        "tag": "h2",
+        "text": "CHỌN ĐÚNG MÁY - THEO ĐÚNG NGHỀ"
+      },
+      {
+        "tag": "h2",
+        "text": "CHỌN ĐÚNG MÁY - THEO ĐÚNG NGHỀ"
+      },
+      {
+        "tag": "h2",
+        "text": "LAPTOP - MACBOOK - TABLET"
+      },
+      {
+        "tag": "h3",
+        "text": "Laptop Asus Gaming ROG Strix G614PR- TS112W (R9 8940HX/16GB D5/512GB SSD/ RTX 5070 8GB)"
+      },
+      {
+        "tag": "h3",
+        "text": "Laptop Asus Gaming TUF FA608UM- RV266W (R7 260/16GB RAM/512GB SSD/ RTX 5060)"
+      },
+      {
+        "tag": "h3",
+        "text": "Laptop MSI Gaming Katana 15 B13VGK (i7 13620H/16GB RAM/512GB SSD/RTX 4050)"
+      },
+      {
+        "tag": "h3",
+        "text": "Laptop Asus Zenbook 14 OLED UX3405MA (Core Ultra 7/16GB RAM/1TB SSD/14” 3K OLED)"
+      },
+      {
+        "tag": "h3",
+        "text": "MacBook Air M3 13 inch 2024 (8CPU/10GPU/16GB/512GB)"
+      },
+      {
+        "tag": "h3",
+        "text": "Laptop Dell Inspiron 15 3530 (i5-1335U/16GB/512GB SSD/15.6” FHD)"
+      },
+      {
+        "tag": "h2",
+        "text": "PC - MINI PC - ALL IN ONE"
+      },
+      {
+        "tag": "h3",
+        "text": "PC Gaming 5060Ti (Intel i5 14600KF/RTX 5060Ti/32GB RAM/1TB SSD)"
+      },
+      {
+        "tag": "h3",
+        "text": "PC HACOM GOLD PRO 051 (Intel i5 14600K/ RTX 5060 Ti)"
+      },
+      {
+        "tag": "h3",
+        "text": "PC Gaming MSI Katana 15 (i7 13620H/16GB/1TB SSD/RTX 4050)"
+      },
+      {
+        "tag": "h3",
+        "text": "PC Workstation 5060Ti (i5 12400F/RTX 5060Ti/32GB RAM)"
+      },
+      {
+        "tag": "h3",
+        "text": "PC Đồ họa HACOM Pro (i7 13700K/RTX 4070/32GB RAM)"
+      },
+      {
+        "tag": "h3",
+        "text": "Mini PC ASUS NUC (i5-13500H/16GB/512GB SSD)"
+      },
+      {
+        "tag": "h2",
+        "text": "HACOM PC BUILDER"
+      },
+      {
+        "tag": "h2",
+        "text": "MÀN HÌNH MÁY TÍNH"
+      },
+      {
+        "tag": "h3",
+        "text": "ASUS TUF Gaming VG249Q3A"
+      },
+      {
+        "tag": "h3",
+        "text": "MSI G244F E2"
+      },
+      {
+        "tag": "h3",
+        "text": "LG 24GS60F-B"
+      },
+      {
+        "tag": "h3",
+        "text": "AOC 24G4E"
+      },
+      {
+        "tag": "h3",
+        "text": "ViewSonic VX2428J"
+      },
+      {
+        "tag": "h3",
+        "text": "Samsung Odyssey G4 LS24BG400EEXXV"
+      },
+      {
+        "tag": "h2",
+        "text": "LINH KIỆN MÁY TÍNH"
+      },
+      {
+        "tag": "h2",
+        "text": "GAMING GEAR"
+      },
+      {
+        "tag": "h2",
+        "text": "CONSOLE - SIM RACING - GIẢI TRÍ"
+      },
+      {
+        "tag": "h2",
+        "text": "THIẾT BỊ CHIA MẠNG - SWITCH"
+      },
+      {
+        "tag": "h2",
+        "text": "THIẾT BỊ VĂN PHÒNG"
+      },
+      {
+        "tag": "h3",
+        "text": "Máy in Canon LBP6030 Laser đơn năng"
+      },
+      {
+        "tag": "h3",
+        "text": "Máy in Epson L3250 (In phun màu)"
+      },
+      {
+        "tag": "h3",
+        "text": "Máy in đa năng HP 135w (In - Scan - Copy - WiFi)"
+      },
+      {
+        "tag": "h3",
+        "text": "Máy in Brother DCP-L2540DW (In - Scan - Copy - WiFi)"
+      },
+      {
+        "tag": "h3",
+        "text": "Máy in Epson L4260 (In - Scan - Copy - WiFi)"
+      },
+      {
+        "tag": "h3",
+        "text": "Máy in Canon MF3010 (In - Scan - Copy)"
+      },
+      {
+        "tag": "h2",
+        "text": "NHÀ THÔNG MINH & GIA DỤNG"
+      },
+      {
+        "tag": "h2",
+        "text": "KHÁCH HÀNG"
+      },
+      {
+        "tag": "h2",
+        "text": "DỊCH VỤ TỐT"
+      },
+      {
+        "tag": "h2",
+        "text": "HACOM IN NUMBERS"
+      },
+      {
+        "tag": "h2",
+        "text": "CẬP NHẬT CÔNG NGHỆ MỖI NGÀY"
+      },
+      {
+        "tag": "h3",
+        "text": "Đánh giá MacBook Air M4 2025: Hiệu năng vượt trội, có đáng nâng cấp?"
+      },
+      {
+        "tag": "h3",
+        "text": "Nên mua laptop gaming hay laptop AI PC năm 2025?"
+      },
+      {
+        "tag": "h3",
+        "text": "10 thủ thuật Windows 11 giúp bạn làm việc hiệu quả hơn"
+      },
+      {
+        "tag": "h3",
+        "text": "Hướng dẫn build PC gaming RTX 5070 chi tiết từ A-Z"
+      },
+      {
+        "tag": "h3",
+        "text": "HACOM Gaming Day 2025 – Sự kiện công nghệ lớn nhất mùa thu"
+      },
+      {
+        "tag": "h3",
+        "text": "Back to School 2025: Laptop, PC, phụ kiện giảm đến 50%"
+      },
+      {
+        "tag": "h3",
+        "text": "Trên tay RTX 5080: Hiệu năng AI mạnh mẽ, đáng nâng cấp?"
+      },
+      {
+        "tag": "h3",
+        "text": "Top 5 laptop văn phòng đáng mua nhất 2025"
+      },
+      {
+        "tag": "h3",
+        "text": "Hướng dẫn chọn cấu hình PC gaming theo ngân sách"
+      },
+      {
+        "tag": "h3",
+        "text": "Màn hình OLED vs IPS: Nên chọn loại nào?"
+      },
+      {
+        "tag": "h3",
+        "text": "Cách tối ưu WiFi tại nhà để luôn ổn định"
+      },
+      {
+        "tag": "h3",
+        "text": "Top bàn phím cơ đáng mua cho game thủ 2025"
+      },
+      {
+        "tag": "h2",
+        "text": "VIDEO REVIEW SẢN PHẨM MỚI NHẤT"
+      },
+      {
+        "tag": "h3",
+        "text": "Trên tay SSD Crucial P3 | Hiệu năng vượt trội"
+      },
+      {
+        "tag": "h3",
+        "text": "Trên tay RTX 5080 | Hiệu năng AI cực mạnh!"
+      },
+      {
+        "tag": "h3",
+        "text": "Màn hình gaming 2K 240Hz quá mượt!"
+      },
+      {
+        "tag": "h3",
+        "text": "Hướng dẫn build PC từng bước cho người mới"
+      },
+      {
+        "tag": "h3",
+        "text": "Review camera EZVIZ H6c 2K+ | Nhỏ gọn, dễ dùng"
+      },
+      {
+        "tag": "h3",
+        "text": "Trên tay MacBook Air M4 | Ưu điểm mới, hiệu năng ấn tượng"
+      },
+      {
+        "tag": "h2",
+        "text": "K H Á C H H À N G H A C O M"
+      },
+      {
+        "tag": "h2",
+        "text": "CHƯA CHẮC LAPTOP NÀO?"
+      },
+      {
+        "tag": "h2",
+        "text": "NHẬN ƯU ĐÃI MỚI NHẤT TỪ HACOM NGAY!"
+      },
+      {
+        "tag": "h2",
+        "text": "NHẬN ƯU ĐÃI MỚI NHẤT TỪ HACOM NGAY!"
+      }
+    ],
+    "duplicateIds": [],
+    "missingResources": [],
+    "missingFonts": [],
+    "imagesWithoutAlt": 0,
+    "unnamedButtons": 0,
+    "placeholderAnchors": 0,
+    "missingOriginalText": [],
+    "nativeArticles": 30,
+    "oldCodeBytes": 1542084,
+    "newCodeBytes": 545232,
+    "oldMediaBytes": 130815463,
+    "newReferencedMediaBytes": 34619463,
+    "indexOriginalSha256": "4a4aebb09a52f89a9d0dc04fa0a8d6e63b412982d9da9cb285b90d0df7d395ce",
+    "externalScripts": []
+  },
+  "lighthouse": {
+    "desktop": {
+      "accessibility": 96,
+      "best-practices": 100,
+      "seo": 100,
+      "agentic-browsing": 100
+    },
+    "mobile": {
+      "accessibility": 96,
+      "best-practices": 100,
+      "seo": 100,
+      "agentic-browsing": 100
+    }
+  },
+  "viewports": 10,
+  "sectionComparisons": 44,
+  "pixelIdentical": false,
+  "codeReductionPercent": 64.6431711891181,
+  "mediaReductionPercent": 73.53564922214126
+}

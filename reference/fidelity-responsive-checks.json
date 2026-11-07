@@ -1,0 +1,112 @@
+{
+  "rows": [
+    {
+      "viewport": 360,
+      "overflow": 0,
+      "frame": 360,
+      "hero": 1398,
+      "mode": "mobile",
+      "deadLinks": 0
+    },
+    {
+      "viewport": 390,
+      "overflow": 0,
+      "frame": 390,
+      "hero": 1424,
+      "mode": "mobile",
+      "deadLinks": 0
+    },
+    {
+      "viewport": 768,
+      "overflow": 0,
+      "frame": 768,
+      "hero": 2073,
+      "mode": "mobile",
+      "deadLinks": 0
+    },
+    {
+      "viewport": 1024,
+      "overflow": 0,
+      "frame": 1024,
+      "hero": 556,
+      "mode": "desktop",
+      "deadLinks": 0
+    },
+    {
+      "viewport": 1280,
+      "overflow": 0,
+      "frame": 1280,
+      "hero": 695,
+      "mode": "desktop",
+      "deadLinks": 0
+    },
+    {
+      "viewport": 1440,
+      "overflow": 0,
+      "frame": 1440,
+      "hero": 782,
+      "mode": "desktop",
+      "deadLinks": 0
+    },
+    {
+      "viewport": 1600,
+      "overflow": 0,
+      "frame": 1600,
+      "hero": 869,
+      "mode": "desktop",
+      "deadLinks": 0
+    },
+    {
+      "viewport": 1680,
+      "overflow": 0,
+      "frame": 1680,
+      "hero": 913,
+      "mode": "desktop",
+      "deadLinks": 0
+    },
+    {
+      "viewport": 1800,
+      "overflow": 0,
+      "frame": 1800,
+      "hero": 978,
+      "mode": "desktop",
+      "deadLinks": 0
+    },
+    {
+      "viewport": 1920,
+      "overflow": 0,
+      "frame": 1920,
+      "hero": 1043,
+      "mode": "desktop",
+      "deadLinks": 0
+    },
+    {
+      "viewport": 2560,
+      "overflow": 0,
+      "frame": 1920,
+      "hero": 1043,
+      "mode": "desktop",
+      "deadLinks": 0
+    },
+    {
+      "viewport": 3440,
+      "overflow": 0,
+      "frame": 1920,
+      "hero": 1043,
+      "mode": "desktop",
+      "deadLinks": 0
+    }
+  ],
+  "mobile": {
+    "opened": true,
+    "closed": true,
+    "returnedFocus": true,
+    "search": "Đã nhận từ khóa tìm kiếm · Demo"
+  },
+  "desktop": {
+    "favorite": "true",
+    "cart": "Đã thêm vào giỏ hàng (1) · Demo",
+    "totalHeight": 20142
+  },
+  "errors": []
+}

@@ -1,0 +1,1 @@
+[{"name":"evaluate_script","_url":"http://127.0.0.1:8765/index2.html?index2-audit-new","arguments":{"function":"() => ({url:location.href,width:innerWidth,height:document.body.scrollHeight})"}}]

@@ -1,0 +1,1 @@
+[{"_url": "http://127.0.0.1:8765/index2.html?header-native-interactions", "name": "lighthouse_audit", "arguments": {"device": "desktop", "mode": "navigation"}}, {"_url": "http://127.0.0.1:8765/index2.html?header-native-interactions", "name": "lighthouse_audit", "arguments": {"device": "mobile", "mode": "navigation"}}]
