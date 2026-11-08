@@ -17,11 +17,20 @@ def decorative_header():
  digest=ROOT/'assets/index2/header-decoration.sha256'
  raster=svg.with_suffix('.webp')
  return 'assets/index2/header-decoration.webp' if raster.exists() and digest.exists() and digest.read_text().strip()==hashlib.sha256(svg.read_bytes()).hexdigest() else 'assets/index2/header-decoration.svg'
+def responsive_header_image(soup, image, src, media):
+ picture=soup.new_tag('picture')
+ source=soup.new_tag('source', attrs={'srcset':src,'media':media})
+ image.wrap(picture)
+ picture.insert(0,source)
+ image['src']='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'
+ image['loading']='eager'
+ image['fetchpriority']='high'
+
 def normalize(markup):
  soup=BeautifulSoup(markup,'html.parser');header=soup.find('header')
  source_texts={t['key']:t for t in json.loads((ROOT/'reference/index2-desktop-source.json').read_text(encoding='utf8'))[0]['texts']}
  mobile_pieces=json.loads((ROOT/'reference/index2-mobile-source.json').read_text(encoding='utf8'))[0]['pieces']
- header.select_one('.desktop-art')['src']=decorative_header()
+ responsive_header_image(soup, header.select_one('.desktop-art'), decorative_header(), '(min-width:1280px)')
  # One native control owns its visible label at both responsive layouts.
  for piece in header.select('.layout-piece'):
   canvas=piece.select_one('.piece-canvas')
@@ -82,7 +91,8 @@ def normalize(markup):
  old=header.select_one('.desktop-controls')
  if old:old.decompose()
  # The hero is written in HTML, including all text previously burned into its PNG.
- hero=header.select_one('.piece-1-18');hero.select_one('.mobile-art')['src']='assets/index2/hero-clean-mobile.webp'
+ hero=header.select_one('.piece-1-18')
+ responsive_header_image(soup, hero.select_one('.mobile-art'), 'assets/index2/hero-clean-mobile.webp', '(width < 1280px)')
  canvas=hero.select_one('.piece-canvas');canvas.clear()
  native='''<section class="native-hero" aria-labelledby="hero-title">
  <div class="hero-surface" aria-hidden="true"></div>
