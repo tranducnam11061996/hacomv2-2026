@@ -8,7 +8,7 @@
 
 :root {
   color: #101c3b;
-  background: #f3f5f8;
+  background: #fff;
   font: 15px/1.5 Inter, system-ui, sans-serif;
   --red: #d81521;
   --border: #e2e7ef;
@@ -82,7 +82,7 @@ main, .store-footer { padding: var(--gutter); }
 .price { color: var(--red); font-size: 17px; }
 .original-price { color: #535b6c; }
 
-.store-footer { background: #e8edf5; overflow-wrap: anywhere; }
+.store-footer { background: #fff; overflow-wrap: anywhere; }
 .store-footer section, .newsletter { display: grid; gap: 10px; }
 .newsletter { padding: 18px; border-radius: 14px; background: white; }
 .newsletter label { flex-basis: 100%; padding-block: 8px; }

@@ -1,0 +1,18 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="310.7120056152344 2402.949951171875 244.38400268554688 65.052490234375" fill="none" width="245" height="66"><ns0:defs><ns0:filter id="s3-filter88_d_43_3" x="300.954" y="2397.53" width="263.9" height="84.5685" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<ns0:feFlood flood-opacity="0" result="BackgroundImageFix" />
+<ns0:feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+<ns0:feOffset dy="4.33684" />
+<ns0:feGaussianBlur stdDeviation="4.87895" />
+<ns0:feColorMatrix type="matrix" values="0 0 0 0 0.078 0 0 0 0 0.118 0 0 0 0 0.235 0 0 0 0.09 0" />
+<ns0:feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_43_3" />
+<ns0:feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_43_3" result="shape" />
+</ns0:filter>
+</ns0:defs><ns0:g transform="matrix(1 0 0 1 0 0)"><ns0:g>
+<ns0:rect x="310.712" y="2402.95" width="244.384" height="65.0526" rx="20" fill="white" ry="20" />
+<ns0:g>
+<ns0:path d="M367.955 2446.32V2421.38H334.93V2446.32M367.955 2446.32H334.93M367.955 2446.32L372.358 2450.65H330.527L334.93 2446.32" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round" stroke="#FF0035" />
+</ns0:g>
+
+
+<ns0:path d="M531.979 2431.14L536.382 2435.47L531.979 2439.81" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" stroke="#202E46" />
+</ns0:g></ns0:g></ns0:svg>

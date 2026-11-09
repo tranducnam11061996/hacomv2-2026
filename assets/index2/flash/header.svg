@@ -1,0 +1,180 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="32 1757 1856 132" fill="none" width="1856" height="132"><ns0:defs><ns0:clipPath id="s3-clip60_43_3">
+<ns0:rect x="32" y="1757" width="1856" height="132" rx="20" fill="white" ry="20" />
+</ns0:clipPath>
+<ns0:linearGradient id="s3-paint3_linear_43_3" x1="32" y1="1812.58" x2="146.54" y2="1812.58" gradientUnits="userSpaceOnUse">
+<ns0:stop stop-color="#FF071A" />
+<ns0:stop offset="0.5" stop-color="#A0000A" />
+<ns0:stop offset="1" stop-color="#070609" />
+</ns0:linearGradient>
+<ns0:linearGradient id="s3-paint4_linear_43_3" x1="32" y1="1819.53" x2="168.781" y2="1819.53" gradientUnits="userSpaceOnUse">
+<ns0:stop stop-color="#E50015" />
+<ns0:stop offset="0.4" stop-color="#FC001C" />
+<ns0:stop offset="1" stop-color="#190309" />
+</ns0:linearGradient>
+<ns0:filter id="s3-filter66_d_43_3" x="21.25" y="1746.25" width="104.903" height="100.237" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<ns0:feFlood flood-opacity="0" result="BackgroundImageFix" />
+<ns0:feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+<ns0:feOffset />
+<ns0:feGaussianBlur stdDeviation="5" />
+<ns0:feColorMatrix type="matrix" values="0 0 0 0 0.078 0 0 0 0 0.118 0 0 0 0 0.235 0 0 0 1 0" />
+<ns0:feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_43_3" />
+<ns0:feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_43_3" result="shape" />
+</ns0:filter>
+<ns0:linearGradient id="s3-paint5_linear_43_3" x1="32" y1="1882.05" x2="302.226" y2="1882.05" gradientUnits="userSpaceOnUse">
+<ns0:stop stop-color="#FE001C" />
+<ns0:stop offset="0.7" stop-color="#67000B" />
+<ns0:stop offset="1" stop-color="#060709" />
+</ns0:linearGradient>
+<ns0:linearGradient id="s3-paint6_linear_43_3" x1="202.143" y1="1766.84" x2="318.907" y2="1766.84" gradientUnits="userSpaceOnUse">
+<ns0:stop stop-color="#11030A" />
+<ns0:stop offset="0.5" stop-color="#53000B" />
+<ns0:stop offset="1" stop-color="#10040A" />
+</ns0:linearGradient>
+<ns0:linearGradient id="s3-paint7_linear_43_3" x1="517.963" y1="1823" x2="670.313" y2="1823" gradientUnits="userSpaceOnUse">
+<ns0:stop stop-color="#070509" />
+<ns0:stop offset="0.35" stop-color="#FC001B" />
+<ns0:stop offset="0.48" stop-color="#720008" />
+<ns0:stop offset="1" stop-color="#08070B" />
+</ns0:linearGradient>
+<ns0:filter id="s3-filter67_d_43_3" x="510.511" y="1746.26" width="135.004" height="153.484" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<ns0:feFlood flood-opacity="0" result="BackgroundImageFix" />
+<ns0:feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+<ns0:feOffset />
+<ns0:feGaussianBlur stdDeviation="5.5" />
+<ns0:feColorMatrix type="matrix" values="0 0 0 0 0.078 0 0 0 0 0.118 0 0 0 0 0.235 0 0 0 1 0" />
+<ns0:feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_43_3" />
+<ns0:feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_43_3" result="shape" />
+</ns0:filter>
+<ns0:filter id="s3-filter68_d_43_3" x="1782.59" y="1745" width="117.412" height="48.3158" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<ns0:feFlood flood-opacity="0" result="BackgroundImageFix" />
+<ns0:feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+<ns0:feOffset />
+<ns0:feGaussianBlur stdDeviation="6" />
+<ns0:feColorMatrix type="matrix" values="0 0 0 0 0.078 0 0 0 0 0.118 0 0 0 0 0.235 0 0 0 0.2 0" />
+<ns0:feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_43_3" />
+<ns0:feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_43_3" result="shape" />
+</ns0:filter>
+<ns0:linearGradient id="s3-paint8_linear_43_3" x1="1794.59" y1="1769.16" x2="1888" y2="1769.16" gradientUnits="userSpaceOnUse">
+<ns0:stop stop-color="#26000B" />
+<ns0:stop offset="0.6" stop-color="#FF002B" />
+<ns0:stop offset="1" stop-color="#530011" />
+</ns0:linearGradient>
+<ns0:linearGradient id="s3-paint9_linear_43_3" x1="1718.97" y1="1865.84" x2="1888" y2="1865.84" gradientUnits="userSpaceOnUse">
+<ns0:stop stop-color="#03070A" />
+<ns0:stop offset="0.7" stop-color="#8B0013" />
+<ns0:stop offset="1" stop-color="#FB002B" />
+</ns0:linearGradient>
+<ns0:filter id="s3-filter69_d_43_3" x="1722.6" y="1834.08" width="167.326" height="63.5161" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<ns0:feFlood flood-opacity="0" result="BackgroundImageFix" />
+<ns0:feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+<ns0:feOffset />
+<ns0:feGaussianBlur stdDeviation="4" />
+<ns0:feColorMatrix type="matrix" values="0 0 0 0 0.078 0 0 0 0 0.118 0 0 0 0 0.235 0 0 0 0.8 0" />
+<ns0:feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_43_3" />
+<ns0:feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_43_3" result="shape" />
+</ns0:filter>
+<ns0:filter id="s3-filter70_d_43_3" x="45.9047" y="1769.37" width="66.7142" height="108.421" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<ns0:feFlood flood-opacity="0" result="BackgroundImageFix" />
+<ns0:feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+<ns0:feOffset />
+<ns0:feGaussianBlur stdDeviation="2.5" />
+<ns0:feColorMatrix type="matrix" values="0 0 0 0 0.078 0 0 0 0 0.118 0 0 0 0 0.235 0 0 0 0.4 0" />
+<ns0:feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_43_3" />
+<ns0:feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_43_3" result="shape" />
+</ns0:filter>
+<ns0:linearGradient id="s3-paint10_linear_43_3" x1="652.52" y1="1828.79" x2="709.234" y2="1828.79" gradientUnits="userSpaceOnUse">
+<ns0:stop stop-color="#FF003B" />
+<ns0:stop offset="1" stop-color="#FB0025" />
+</ns0:linearGradient>
+<ns0:linearGradient id="s3-paint11_linear_43_3" x1="730.363" y1="1828.79" x2="787.077" y2="1828.79" gradientUnits="userSpaceOnUse">
+<ns0:stop stop-color="#FF003B" />
+<ns0:stop offset="1" stop-color="#FB0025" />
+</ns0:linearGradient>
+<ns0:linearGradient id="s3-paint12_linear_43_3" x1="808.206" y1="1828.79" x2="864.92" y2="1828.79" gradientUnits="userSpaceOnUse">
+<ns0:stop stop-color="#FF003B" />
+<ns0:stop offset="1" stop-color="#FB0025" />
+</ns0:linearGradient>
+</ns0:defs><ns0:g transform="matrix(1 0 0 1 0 0)"><ns0:g clip-path="url(#s3-clip60_43_3)">
+<ns0:rect x="32" y="1757" width="1856" height="132" rx="20" fill="#020305" ry="20" />
+<ns0:g>
+<ns0:path d="M32 1757H146.54L32 1868.16V1757Z" fill-rule="evenodd" clip-rule="evenodd" fill="url(#s3-paint3_linear_43_3)" />
+<ns0:path d="M32 1872.79L140.98 1765.11L168.781 1757L55.3529 1882.05L32 1872.79Z" fill-rule="evenodd" clip-rule="evenodd" fill="url(#s3-paint4_linear_43_3)" />
+<ns0:g>
+<ns0:path d="M32 1835.74L115.403 1757" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke="#FFF2F4" />
+</ns0:g>
+<ns0:path d="M32 1885.53L127.636 1875.11L302.226 1889H32V1885.53Z" fill-rule="evenodd" clip-rule="evenodd" fill="url(#s3-paint5_linear_43_3)" />
+<ns0:path d="M202.143 1757H298.89L318.907 1769.74L272.201 1776.68L202.143 1757Z" fill-rule="evenodd" clip-rule="evenodd" fill="url(#s3-paint6_linear_43_3)" />
+<ns0:path d="M517.963 1889L633.615 1757H670.313L568.005 1889H517.963Z" fill-rule="evenodd" clip-rule="evenodd" fill="url(#s3-paint7_linear_43_3)" />
+<ns0:g>
+<ns0:path d="M522.411 1887.84L633.615 1758.16" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" stroke="#FF6A72" />
+</ns0:g>
+<ns0:path d="M555.772 1889L615.823 1823" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" stroke="#FF002B" />
+<ns0:g>
+<ns0:path d="M1794.59 1757H1888L1860.2 1781.32L1825.73 1780.16L1794.59 1757Z" fill-rule="evenodd" clip-rule="evenodd" fill="url(#s3-paint8_linear_43_3)" />
+</ns0:g>
+<ns0:path d="M1718.97 1889L1888 1842.68V1889H1718.97Z" fill-rule="evenodd" clip-rule="evenodd" fill="url(#s3-paint9_linear_43_3)" />
+<ns0:g>
+<ns0:path d="M1731.2 1889L1881.33 1842.68" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" stroke="#FF284E" />
+</ns0:g>
+</ns0:g>
+<ns0:g>
+<ns0:g>
+<ns0:path d="M85.3781 1774.37L50.9047 1829.95H72.0336L59.8011 1872.79L107.619 1809.11H85.3781L96.4985 1774.37H85.3781Z" fill-rule="evenodd" clip-rule="evenodd" fill="#F8FAFF" />
+</ns0:g>
+
+
+
+</ns0:g>
+<ns0:g>
+<ns0:rect x="625.019" y="1757.3" width="264.066" height="131.4" rx="20" fill="#030508" ry="20" />
+<ns0:rect x="625.019" y="1757.3" width="264.066" height="131.4" rx="20" stroke="#31000C" stroke-width="0.6" ry="20" />
+<ns0:ellipse cx="662.529" cy="1785.95" rx="8.89635" ry="9.26316" fill="#F8FAFF" />
+<ns0:path d="M661.416 1781.32V1785.95L664.753 1788.26" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke="#10131B" />
+
+<ns0:rect x="652.52" y="1803.32" width="56.7142" height="50.9474" rx="8.10526" fill="url(#s3-paint10_linear_43_3)" />
+
+
+
+<ns0:rect x="730.363" y="1803.32" width="56.7142" height="50.9474" rx="8.10526" fill="url(#s3-paint11_linear_43_3)" />
+
+
+
+<ns0:rect x="808.206" y="1803.32" width="56.7142" height="50.9474" rx="8.10526" fill="url(#s3-paint12_linear_43_3)" />
+
+
+</ns0:g>
+<ns0:g>
+<ns0:g>
+<ns0:path d="M933.311 1804.47L936.283 1805.86L938.91 1807.61L942.025 1807.46L945.265 1807.81L947.173 1810.56L948.607 1813.44L951.376 1814.94L954.017 1816.92L954.348 1820.3L954.206 1823.54L955.887 1826.27L957.22 1829.37L955.887 1832.46L954.206 1835.2L954.348 1838.44L954.017 1841.82L951.376 1843.8L948.607 1845.3L947.173 1848.18L945.265 1850.93L942.025 1851.27L938.91 1851.12L936.283 1852.87L933.311 1854.26L930.339 1852.87L927.712 1851.12L924.597 1851.27L921.357 1850.93L919.449 1848.18L918.015 1845.3L915.246 1843.8L912.605 1841.82L912.274 1838.44L912.416 1835.2L910.735 1832.46L909.402 1829.37L910.735 1826.27L912.416 1823.54L912.274 1820.3L912.605 1816.92L915.246 1814.94L918.015 1813.44L919.449 1810.56L921.357 1807.81L924.597 1807.46L927.712 1807.61L930.339 1805.86L933.311 1804.47Z" fill-rule="evenodd" clip-rule="evenodd" fill="#FF002B" />
+<ns0:ellipse cx="933.311" cy="1829.37" rx="15.0126" ry="15.6316" fill="#F8FAFF" />
+
+
+
+</ns0:g>
+<ns0:g>
+<ns0:path d="M1116.24 1803.79L1139.69 1809V1827.75C1139.69 1840.25 1126.29 1849.62 1116.24 1853.79C1106.2 1849.62 1091.69 1840.25 1091.69 1827.75V1809L1116.24 1803.79Z" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" stroke="#FF002B" />
+<ns0:path d="M1115.69 1813.16L1127.95 1817.33V1826.71C1127.95 1834 1121.26 1839.21 1115.69 1842.33C1110.11 1839.21 1103.42 1834 1103.42 1826.71V1817.33L1115.69 1813.16Z" fill-rule="evenodd" clip-rule="evenodd" fill="#F8FAFF" />
+<ns0:path d="M1108.75 1827.75L1114.09 1832.96L1122.62 1822.54" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke="#10131B" />
+
+
+</ns0:g>
+<ns0:g>
+<ns0:path d="M1332.79 1802.63C1345.98 1814.88 1344.78 1819.98 1343.58 1827.12C1350.77 1824.06 1351.97 1818.96 1349.57 1814.88C1369.95 1835.28 1359.16 1852.63 1337.59 1852.63C1314.81 1852.63 1305.22 1836.31 1318.41 1823.04C1324.4 1816.92 1331.59 1812.84 1332.79 1802.63Z" fill-rule="evenodd" clip-rule="evenodd" fill="#FF002B" />
+
+
+</ns0:g>
+<ns0:g>
+<ns0:ellipse cx="1537.71" cy="1829.95" rx="24" ry="25" fill="#FF002B" />
+<ns0:path d="M1518.07 1829.38C1528.98 1813.47 1546.43 1813.47 1557.34 1829.38C1546.43 1845.29 1528.98 1845.29 1518.07 1829.38ZM1537.71 1820.81C1526.8 1820.81 1526.8 1837.95 1537.71 1837.95C1548.62 1837.95 1548.62 1820.81 1537.71 1820.81Z" fill-rule="evenodd" clip-rule="evenodd" fill="#F8FAFF" />
+<ns0:ellipse cx="1537.71" cy="1827.67" rx="4.36364" ry="4.54545" fill="#F8FAFF" />
+
+
+</ns0:g>
+</ns0:g>
+<ns0:a href="#" aria-label="Xem tất cả" data-action="Button / HACOM / Xem táº¥t cáº£"><ns0:g>
+<ns0:rect x="1727.25" y="1810.76" width="134.669" height="40.6842" rx="20.3421" fill="#050A0E" />
+<ns0:rect x="1727.25" y="1810.76" width="134.669" height="40.6842" rx="20.3421" stroke="#C1CCD4" />
+
+<ns0:path d="M1834.62 1826.47L1839.07 1831.11L1834.62 1835.74" stroke-linecap="round" stroke-linejoin="round" stroke="#EEF3FA" />
+</ns0:g></ns0:a>
+</ns0:g></ns0:g></ns0:svg>

@@ -1,0 +1,10 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="41.00830078125 2393.18994140625 267.501708984375 87.820068359375" fill="none" width="268" height="88"><ns0:defs><ns0:linearGradient id="s3-paint13_linear_43_3" x1="41.0083" y1="2437.1" x2="308.51" y2="2437.1" gradientUnits="userSpaceOnUse">
+<ns0:stop stop-color="#E8002B" />
+<ns0:stop offset="1" stop-color="#BA0021" />
+</ns0:linearGradient>
+</ns0:defs><ns0:g transform="matrix(1 0 0 1 0 0)"><ns0:g>
+<ns0:path d="M54.2183 2393.19H256.771C265.578 2393.19 271.082 2396.44 275.485 2405.12L308.51 2481.01H54.2183C45.4116 2481.01 41.0083 2476.67 41.0083 2468V2406.2C41.0083 2397.53 45.4116 2393.19 54.2183 2393.19Z" fill-rule="evenodd" clip-rule="evenodd" fill="url(#s3-paint13_linear_43_3)" />
+<ns0:path d="M104.356 2410.54L79.5374 2441.98H92.9808L83.6738 2465.83L113.663 2430.05H100.22L109.527 2410.54H104.356Z" fill-rule="evenodd" clip-rule="evenodd" fill="white" />
+
+
+</ns0:g></ns0:g></ns0:svg>

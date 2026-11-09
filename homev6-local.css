@@ -1,0 +1,9 @@
+#local-status { position: fixed; right: 16px; bottom: 20px; z-index: 10000; max-width: min(420px, calc(100vw - 32px)); padding: 12px 16px; border-radius: 12px; color: white; background: #101c3b; font: 14px/1.5 sans-serif; }
+[hidden] { display: none !important; }
+.swiper-wrapper { transform: none !important; }
+.swiper-slide { width: 100%; flex-shrink: 0; }
+button[aria-pressed="true"][data-local-filter] { outline: 2px solid #e72429; outline-offset: -2px; }
+#local-mobile-menu { width: min(420px, 95vw); max-height: 90dvh; padding: 16px; border: 1px solid #ddd; border-radius: 16px; }
+#local-mobile-menu::backdrop { background: #0008; }
+#local-mobile-menu > a { display: block; padding: 10px 4px; border-bottom: 1px solid #eee; }
+#local-mobile-menu > button { position: sticky; top: 0; display: block; width: 100%; padding: 12px; background: white; color: #e72429; }

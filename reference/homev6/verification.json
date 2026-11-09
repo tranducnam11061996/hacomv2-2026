@@ -1,0 +1,11 @@
+{
+  "sections": 21,
+  "images": 516,
+  "sourceStylesheets": 6,
+  "downloadedAssets": 1263,
+  "missingRenderResources": 0,
+  "invalidRasterImages": 0,
+  "reproducibleBuild": true,
+  "browserVerification": "blocked: managed Chrome launcher cannot verify recorded process identity",
+  "interactionScope": "Local demo interactions on captured content. Filters search captured products. Uncaptured server-dependent tab and menu states are unavailable."
+}

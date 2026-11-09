@@ -15,7 +15,7 @@
 
 .site-header {
   container-type: inline-size;
-  background: linear-gradient(#fff 10%, #f8f8f9 23%, #eceef0 87%, #f6f6f7);
+  background: #fff;
   color: #101217;
   --header-red: #ed1c24;
 }
@@ -52,7 +52,7 @@
 .site-header .account svg { width: 26px; height: 26px; }
 
 .site-header .header-grid { display: grid; gap: 12px; padding: 0 var(--gutter); }
-.site-header .departments { overflow: clip; border-radius: 20px; background: linear-gradient(140deg,#fff,#f0f1f3); box-shadow: 0 14px 35px #121b2d26; }
+.site-header .departments { overflow: clip; border-radius: 20px; background: #fff; box-shadow: none; }
 .site-header .departments summary { display: flex; align-items: center; gap: 10px; min-height: 48px; background: var(--header-red); color: #fff; font-weight: 750; padding: 10px 16px; border-radius: 20px; }
 .site-header .departments ul { padding: 0 12px 8px; }
 .site-header .departments li + li { border-top: 1px solid #dedfe3; }
@@ -113,7 +113,7 @@
 .site-header .benefits {
   display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); align-items: center;
   margin: 16px var(--gutter) 0; padding: 10px; gap: 8px; border-radius: 20px;
-  background: #ffffffdc; box-shadow: 0 20px 48px #18223924;
+  background: #fff; box-shadow: none;
 }
 .site-header .benefits li { display: flex; align-items: center; gap: 8px; min-width: 0; padding: 4px; }
 .site-header .benefits svg { width: 30px; height: 30px; color: var(--header-red); }
@@ -288,7 +288,7 @@
 .site-header .departments :is(a,button,summary):focus-visible { outline-offset: -3px; }
 
 @media (width >= 1440px) {
-  :root:has(.site-header) { background: linear-gradient(#fff min(54.322917vw, 1043px), #f3f5f8 0); }
+  :root:has(.site-header) { background: #fff; }
   .site-header .promo:first-child > div > svg {
     width: calc(36 * var(--ref));
     height: calc(46 * var(--ref));
@@ -296,4 +296,54 @@
     top: calc(13 * var(--ref));
   }
   .site-header .promo:first-child :is(h3,strong) { margin-inline-start: calc(44 * var(--ref)); }
+}
+
+
+/* Responsive utility controls and a hero with independent product artwork. */
+.site-header .hero-laptop { display: none; }
+@media (width < 1440px) {
+  .site-header .utility { display: grid; padding-block: 12px; gap: 12px; }
+  .site-header .utility h1 { min-width: 0; align-items: start; line-height: 1.5; }
+  .site-header .utility > div {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 8px;
+    overflow: visible;
+  }
+  .site-header .utility button {
+    min-width: 0;
+    min-height: 44px;
+    padding: 8px 10px;
+    white-space: normal;
+    text-align: start;
+    line-height: 1.4;
+    font-size: 13px;
+  }
+  .site-header .utility button span { flex: 0 1 auto; min-width: 0; overflow-wrap: anywhere; }
+  .site-header .hero {
+    display: grid;
+    gap: 20px;
+    padding: 20px 16px 32px;
+    background: radial-gradient(ellipse at 90% 80%, #54182d, transparent 65%), linear-gradient(135deg, #191f30, #080c15);
+  }
+  .site-header .hero-art { display: none; }
+  .site-header .hero-stock { position: static; justify-self: start; max-width: 100%; font-size: 10px; letter-spacing: .5px; }
+  .site-header .hero-copy { min-width: 0; width: 100%; max-width: none; gap: 12px; padding: 16px; background: #ffffff0a; }
+  .site-header .hero-brand { max-width: 100%; font-size: 10px; letter-spacing: 0; }
+  .site-header .hero-copy h2 { font-size: clamp(34px, 7vw, 68px); }
+  .site-header .hero-copy > strong { font-size: clamp(20px, 3.4vw, 32px); }
+  .site-header .hero-description { font-size: 14px; line-height: 1.5; }
+  .site-header .hero-copy ul { grid-template-columns: 1fr; }
+  .site-header .hero-copy li { font-size: 13px; line-height: 1.5; }
+  .site-header .hero .actions { display: flex; flex-wrap: wrap; gap: 8px; }
+  .site-header .hero .actions button { min-height: 44px; max-width: 100%; white-space: normal; }
+  .site-header .hero-laptop { display: block; order: 1; width: 100%; max-width: 480px; justify-self: center; align-self: center; }
+  .site-header .hero-laptop img { width: 100%; height: auto; }
+}
+@media (768px <= width < 1440px) {
+  .site-header .utility > div { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+  .site-header .hero { grid-template-columns: minmax(0, 3fr) minmax(0, 2fr); padding: 24px 20px 36px; }
+  .site-header .hero-stock { grid-column: 1 / -1; }
+  .site-header .hero-copy { grid-column: 1; }
+  .site-header .hero-laptop { grid-column: 2; grid-row: 2; }
 }
